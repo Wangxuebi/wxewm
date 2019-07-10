@@ -19,5 +19,6 @@ public class TestController {
         // 打印出解析出的内容
         System.out.println("解析二维码信息：" + str);
 
+
     }
 }
