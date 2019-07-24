@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="scala-sdk-2.11">
+    <CLASSES>
+      <root url="jar://D:/software/scala/lib/scala-library.jar!/" />
+      <root url="jar://D:/software/scala/lib/scala-reflect.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/software/scala/api/jars/scala-library-2.13.0-javadoc.jar!/" />
+      <root url="jar://D:/software/scala/api/jars/scala-reflect-2.13.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

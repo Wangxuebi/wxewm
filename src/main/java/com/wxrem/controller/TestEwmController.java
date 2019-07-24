@@ -2,7 +2,12 @@ package com.wxrem.controller;
 
 import com.wxrem.common.QRCodeUtil;
 
-public class TestController {
+/**
+ * 微信二维码生成test
+ *
+ *
+ */
+public class TestEwmController {
 
     public static void main(String[] args) throws Exception {
         // 存放在二维码中的内容
@@ -21,4 +26,5 @@ public class TestController {
 
 
     }
+
 }
